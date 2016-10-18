@@ -1,0 +1,135 @@
+{
+	"result": {
+		"code": 10000,
+		"infoList": [
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/28/92/29303240_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "7.5",
+		    	"title": "兰蔻Lancome化妆品专场",
+		    	"over": 21,
+		    	"tips": "购物即享8.8折优惠"
+			},
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/10/08/194/58405627_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "韩国IT°S SKIN伊思护肤品专场",
+		    	"over": 21,
+		    	"tips": "免税包邮"
+			},
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/10/08/194/25551695_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "科颜氏Kiehl's化妆品专场",
+		    	"over": 21,
+		    	"tips": "免税包邮"
+			},{
+				"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/10/01/18/16445734_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "欧莱雅小美盒化妆品专场",
+		    	"over": 21,
+		    	"tips": "免税包邮"
+		    },{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/10/01/70/41245607_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "佰草集Herborist化妆品专场",
+		    	"over": 21,
+		    	"tips": "免税包邮"
+		    },{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/10/07/59/21553313_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "资生堂SHISEIDO化妆品专场",
+		    	"over": 21,
+		    	"tips": "免税包邮"
+		    },{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/28/55/31516834_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "圣荷STHERB美胸美体专场",
+		    	"over": 21,
+		    	"tips": "免税包邮"
+		    },{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/10/01/126/561319_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "蜜丝佛陀MAX FACTOR彩妆专场",
+		    	"over": 21,
+		    	"tips": "免税包邮"
+			},{
+				"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/29/132/56198285_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "卡姿兰Carslan彩妆专场",
+		    	"over": 21,
+		    	"tips": "免税包邮"
+		    },{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/29/163/27206780_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "蓝色天空MBSKY女装专场",
+		    	"over": 21
+		    },
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/30/117/13527572_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "琼斯维格 JONAS WAGELL牛仔女装专场",
+		    	"over": 21
+		    },
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/29/166/05421018_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "缪佳牛仔女装加绒专场",
+		    	"over": 21
+		    },
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/29/168/52518324_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "格瑞吉奥Congrazio女装专场",
+		    	"over": 21
+		    },
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/28/194/01493673_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "蓝色天空MBSKY女装专场",
+		    	"over": 21
+		    },
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/28/167/15386365_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "曼妮芬集团内衣品牌混合专场",
+		    	"over": 21
+		    },
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/29/36/36256989_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "纤妍内衣专场",
+		    	"over": 21
+		    },
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/30/188/372277_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "香港鳄鱼恤羊毛男女装混合专场",
+		    	"over": 21
+		    },
+			{
+		    	"imageurl":"http://a.vimage1.com/upload/brand/upcb/2016/09/28/195/28312360_604x290_50.jpg",
+		    	"jdPrice":"2800.00",
+		    	"sale": "3.5",
+		    	"title": "伊丝艾拉YISELLE内衣专场",
+		    	"over": 21
+		    }
+		]
+	}
+}

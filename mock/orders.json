@@ -1,0 +1,48 @@
+{
+	"code": 1000,
+	"result": [
+		{
+			"title": "【苏宁正品】Apple/苹果 iPhone 7 全网通4G手机 原封国行",
+			"desc": "网络类型:无需合约版;机身颜色:玫瑰金色;套餐类型:官方标配;存储容量:128GB",
+			"id": 10086,
+			"tags": "七天退换",
+			"price": 5880,
+			"old_price": 6288,
+			"luggage": 0,
+			"count": 1,
+			"selected": false,
+			"tips": "付款后七天内",
+			"status": 1,
+			"imgurl": "https://gw.alicdn.com/bao/uploaded/i6/TB1OiqNNXXXXXXiapXXnH2X9XXX_035413.jpg_120x120q50s150.jpg"
+		},
+		{
+			"title": "牛仔外套女短款修身弹力韩版百搭学生长袖女士牛仔衣秋季外套女",
+			"desc": "颜色分类:深蓝;尺码:M",
+			"id": 10086,
+			"tags": "七天退换",
+			"price": 580,
+			"old_price": 620,
+			"luggage": 0,
+			"count": 1,
+			"selected": false,
+			"tips": "付款后七天内",
+			"status": 1,
+			"imgurl": "https://gw.alicdn.com/bao/uploaded/i4/1970862771/TB2VgaYjFXXXXbZXpXXXXXXXXXX_!!1970862771.jpg_120x120q50s150.jpg"
+		},
+		{
+			"title": "正品罗宾尼陀飞轮手表男士机械表防水镂空皮带超薄男表  ",
+			"desc": "颜色分类:红金白面棕皮",
+			"id": 10086,
+			"tags": "七天退换",
+			"price": 6280,
+			"selected": false,
+			"old_price": 8288,
+			"luggage": 0,
+			"count": 1,
+			"tips": "付款后七天内",
+			"status": 1,
+			"imgurl": "https://gw.alicdn.com/bao/uploaded/i2/1646228217/TB2sTbmXWi5V1BjSspdXXXyFFXa_!!1646228217.jpg_120x120q50s150.jpg"
+		}
+
+	]
+}
