@@ -13,6 +13,6 @@ npm run dev
 
 # 发布代码
 npm run build
-```
+
 
 ![demo](https://o3o97s3zl.qnssl.com/demo.gif)
